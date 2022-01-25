@@ -4,9 +4,9 @@
 }
 
 .tablegl {
-    background-color: cornflowerblue;
-    text-align: center;
+    /*background-color: cornflowerblue;*/
     border-spacing: 20px 5px;
+    text-align: center;
 }
 
 .tableinf {
@@ -47,10 +47,20 @@
     list-style-image: url('../img/film.png'); 
  }
  /* 5/6 */
-body {
-    cursor: url('../img/cursor.png') auto;
+p {
+    cursor: url('../img/cursor.png'), auto;
 }
 /* 2 */
 .glownalista {
     list-style-type: upper-roman;
 }
+.parzystatd{
+    background-color: aqua;
+}
+.nieparzystatd{
+    background-color: brown;
+}
+.info_kursor{
+    cursor:crosshair;
+}
+
