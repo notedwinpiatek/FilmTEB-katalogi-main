@@ -1,0 +1,56 @@
+.img {
+    width: 200px;
+    height: 300px;
+}
+
+.tablegl {
+    background-color: cornflowerblue;
+    text-align: center;
+    border-spacing: 20px 5px;
+}
+
+.tableinf {
+    border: solid black 3px; 
+}
+
+.andrewimg {
+    width: 115px;
+    height: 160px;
+}
+
+.BIOGRAFIA {
+    background-color: #FFE5B4;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.rezyser {
+    text-align: center;
+}
+
+.tabelafilmow {
+    border: solid black 2px; 
+    text-align: center;
+}
+
+.teb{
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+}
+/*jest 23 i chcę spać no scam 100% true*/
+
+/* 1 */
+.listrez {
+   list-style-image: url('../img/man-silhouette.png'); 
+}
+/* 1 */
+.listafilmow {
+    list-style-image: url('../img/film.png'); 
+ }
+ /* 5/6 */
+body {
+    cursor: url('../img/cursor.png') auto;
+}
+/* 2 */
+.glownalista {
+    list-style-type: upper-roman;
+}
